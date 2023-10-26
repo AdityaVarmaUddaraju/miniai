@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "miniai"
+  site-url: "https://AdityaVarmaUddaraju.github.io/miniai"
+  description: "deep learning from foundations to stable diffusion"
+  repo-branch: main
+  repo-url: "https://github.com/AdityaVarmaUddaraju/miniai"
